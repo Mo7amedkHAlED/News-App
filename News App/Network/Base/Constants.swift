@@ -8,7 +8,7 @@ import Foundation
 
 struct Constants {
     static let baseURL = "https://newsapi.org/"
-    static let apiKey = "21e422a61a7a46b080899d4a4ea1c4c1"
+    static let apiKey = "58aa2a7586654d32ae3156d87ea58859"
     static let genericeError = "Something went wrong, please try again later"
     static let pageSize = 6
     
