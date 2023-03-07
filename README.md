@@ -7,7 +7,7 @@ News App is a simple iOS application, it retrieves news from free API [newsapi.o
 - Moya-based Network Layer 
 - MVVM Architecture Pattern
 - RxSwift, RxCocoa For Data Binding
-- Kingfisher For Images Downloading and Caching
+- SDWebImage For Images Downloading and Caching
 - XIB Files
 
 
@@ -15,11 +15,8 @@ News App is a simple iOS application, it retrieves news from free API [newsapi.o
 
 | Home | More Details     | Search     |
 | :-------- | :------- | :-------     |
-| <img src="/Screenshots/Home.png" width="200" height="400">        | <img src="/Screenshots/More Details.png" width="200" height="400">       | <img src="/Screenshots/Search.png" width="200" height="400">       |
+| <img src="/Screenshots/Home.png" width="200" height="400">        | <img src="/Screenshots/More Details.ar.png" width="200" height="400">       | <img src="/Screenshots/Search.png" width="200" height="400">       |
 
 | Head Lines | WebKit     |
-| :-------- | :------- | :-------     |
-| <img src="/Screenshots/HeadLines.png" width="200" height="400">        | <img src="/Screenshots/WebKit.png" width="200" height="400">       |
-
-
-
+| :-------- | :------- |
+| <img src="/Screenshots/HeadLines.png" width="200" height="400">        | <img src="/Screenshots/WebKit.ar.png" width="200" height="400">       |
